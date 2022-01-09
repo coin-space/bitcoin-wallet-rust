@@ -1,0 +1,11 @@
+[package]
+name = "btc_wallet"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bip32 = "0.3.0"
+rand_core = { version = "0.6", features = ["std"] }
+bitcoin = "0.26"
