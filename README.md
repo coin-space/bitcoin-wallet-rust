@@ -2,6 +2,10 @@
 
 How to generate Bitcoin Address, Bitcoin Wallet on Rust
 
+![BIP 32](./bip32.png)
+
+![btc wallet](./btc_wallet.png)
+
 ## Requires:
 
 * bip32 = "0.3.0"
